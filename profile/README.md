@@ -6,7 +6,7 @@ UrlToApp (Also `U2A`) allows you to build Windows, MacOs and Linux applications 
 
 ### Quick links 🔗:
 \> [UrlToApp.xyz](https://urltoapp.xyz)  
-\> [Documentation](https://urltoapp.xyz/readme)  
+\> [Documentation](https://docs.urltoapp.xyz/)  
 \> [NpmJs](https://npmjs.com/package/urltoapp)  
 
 ---
